@@ -1,1 +1,1 @@
-Aprendendo a usar o git
+Tutorial de com usar o git!
